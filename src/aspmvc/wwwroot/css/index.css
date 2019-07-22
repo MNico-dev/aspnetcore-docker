@@ -1,0 +1,22 @@
+
+.img-home{
+    height: 200px;
+    width: 200px;
+}
+
+#main-info{
+    color: white;
+    font-size: 3vh;
+}
+
+#main-info  div{
+    box-shadow: 0 4px 8px #171717;
+}
+
+#netcore-section{
+    background-color: #5c2992;
+}
+
+#docker-section{
+    background-color: #099cec;
+}
